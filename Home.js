@@ -11,6 +11,7 @@ const Home = () => {
         <Button css={{
          
           transform:'translate(10%,900%)'
+  
         }} className='btnt' w={170} h={50}  backgroundColor="transparent"
         border="3px solid"
         borderColor="white"
