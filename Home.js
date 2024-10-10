@@ -14,7 +14,7 @@ const Home = () => {
         }} className='btnt' w={170} h={50}  backgroundColor="transparent"
         border="3px solid"
         borderColor="white"
-        color="white"
+        color="wheat"
         _hover={{ backgroundColor: 'white', color: 'black' }}> <Text marginEnd={2}>Scroll</Text><FaArrowDown color='black' /></Button></a>
     </Container>
     <Container id='items' className='fitt' mt={10} mb={5} borderRadius={30} maxW={'container.x1'} minH={'120vh'} >
